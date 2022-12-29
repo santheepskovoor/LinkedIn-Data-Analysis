@@ -1,0 +1,5 @@
+
+Get the real data from LinkedIn and do data cleaning. 
+Make an interactive dash board which give meaningful insight about your overall linkedIn activity
+
+Tools Used: MS Excel, Power BI
